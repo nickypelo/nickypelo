@@ -1,4 +1,4 @@
-### Hello and Welcome 👋, I'm Nicholas Peloeahae
+# Hello and Welcome 👋, I'm Nicholas Peloeahae
 
 ## I'm a software developer specializing in web development, mainly frontend for now.
 
